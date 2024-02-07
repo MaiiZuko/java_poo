@@ -1,4 +1,4 @@
-package media_artimetica;
+package java_poo;
 
 import java.util.Scanner; //Usada para ler entrada do teclado
 
