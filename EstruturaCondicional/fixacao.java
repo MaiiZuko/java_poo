@@ -1,4 +1,4 @@
-package java_poo.exercicios;
+package EstruturaCondicional;
 
 public class fixacao {
     public static void main(String[] args) {

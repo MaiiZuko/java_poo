@@ -1,4 +1,5 @@
-package java_poo.exercicios;
+package EstruturaCondicional;
+
 
 import java.util.Scanner;
 
