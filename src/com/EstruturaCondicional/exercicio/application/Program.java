@@ -1,9 +1,9 @@
-package EstruturaCondicional.exercicio.application;
+package src.com.EstruturaCondicional.exercicio.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import EstruturaCondicional.exercicio.entities.Product;
+import src.com.EstruturaCondicional.exercicio.entities.Product;
 
 public class Program {
     public static void main(String[] args) {

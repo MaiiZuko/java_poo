@@ -1,4 +1,4 @@
-package EstruturaCondicional;
+package src.com.EstruturaCondicional;
 
 
 import java.util.Locale;

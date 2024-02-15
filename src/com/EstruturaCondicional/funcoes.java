@@ -1,4 +1,4 @@
-package EstruturaCondicional;
+package src.com.EstruturaCondicional;
 
 public class funcoes {
 

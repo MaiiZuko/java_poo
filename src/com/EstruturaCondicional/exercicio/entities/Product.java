@@ -1,4 +1,4 @@
-package EstruturaCondicional.exercicio.entities;
+package src.com.EstruturaCondicional.exercicio.entities;
 
 public class Product {
 
